@@ -1,0 +1,48 @@
+.heading{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 100px 30px;
+    
+}
+
+h1{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    font-style: Semibold;
+    font-size: 36px;
+    color: #030616;
+}
+h3{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    font-style: Semibold;
+    font-size: 24px;
+    color: #030616;
+}
+
+p{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #030616;
+}
+body{
+    background-color: #F8FAFC;
+    line-height: 1.5;
+}
+hr{
+    color: #D2D5DA;
+}
+a{
+    color: #4E80EE;
+}
+.track{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px 0;
+}
+.return{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px 0;
+}
